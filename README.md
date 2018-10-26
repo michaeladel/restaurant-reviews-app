@@ -30,9 +30,4 @@ In this project, we convert static webpages that lacks accessibility to be mobil
 
 * [Project Restaurant Reviews (Stage 1) - Start Code](https://github.com/udacity/mws-restaurant-stage-1)
 * [Normalize.css](https://code.google.com/archive/p/normalize-css/)
-* [leaflet.js]
-(https://unpkg.com/leaflet@1.3.1/dist/leaflet.js)
-
-### Note about ES6
-
-Most of the code in this project has been written to the ES6 JavaScript specification for compatibility with modern web browsers and future proofing JavaScript code. As much as possible, try to maintain use of ES6 in any additional JavaScript you write. 
+* [leaflet.js](https://unpkg.com/leaflet@1.3.1/dist/leaflet.js)
